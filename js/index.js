@@ -1,1 +1,1 @@
-console.log("my name is one")
+alert("my name is one");
